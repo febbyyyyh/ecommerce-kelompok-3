@@ -1,5 +1,5 @@
 # ecommerce-kelompok-3
-Repository ini berisi kode sumber untuk frontend platform e-commerce kursus online berbasis web. Platform ini memungkinkan pengguna untuk mencari, membeli, dan mengikuti kursus secara digital dengan sistem pembayaran yang terintegrasi.
+Repositori ini berisi kode sumber untuk pengembangan platform E-Commerce Kursus Online dengan metode pembelajaran sederhana. Platform ini memungkinkan pengguna untuk membeli dan mengakses kursus digital dengan mudah, sementara admin dapat mengelola kursus serta transaksi pengguna.
 
 Anggota Kelompok 3:
 1. FEBIOLA HORTENSIA LENGKONG 220211060007
